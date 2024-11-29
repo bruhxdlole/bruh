@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>bruh</title>
+
 </head>
 <body>
 <h1> I SAID DONT CLICK IT 
